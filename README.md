@@ -1,3 +1,3 @@
 # e-commerce-server
 
-## [Click Here]() to view the deployed site.
+## [Click Here](https://joyce-e-commerce.netlify.app/) to view the deployed site.
